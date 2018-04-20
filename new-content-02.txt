@@ -1,1 +1,2 @@
 new-content-02.txt
+new-content-02.txt local
